@@ -14,8 +14,6 @@ int main(void)
 
 
 
-
-
   while(1) //infinite loop
   {
     lcd_clrscr();             /* clear screen of lcd */
